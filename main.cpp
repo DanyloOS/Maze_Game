@@ -2,7 +2,6 @@
 #include <conio.h>
 #include <vector>
 #include <exception>
-#include "mazegame.h"
 
 using namespace std;
 
